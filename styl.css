@@ -521,7 +521,7 @@ main{
     }
     .timeline-content.left{
         margin-right: 0;
-        margin-left:5cqmax ;
+        margin-left:50px ;
         width: 70%;
     }
     }
